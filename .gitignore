@@ -11,4 +11,11 @@ build/Release
 node_modules
 *.module-cache
 src
-exercises
+exercises/02*
+exercises/03*
+exercises/04*
+exercises/05*
+exercises/06*
+exercises/07*
+exercises/main.jsx
+package-lock.json
